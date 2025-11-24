@@ -5,9 +5,6 @@
 
 **Integrantes / RA:**
 - Isadora Lopes Carneiro — 12724112679
-- João Luiz — 12724114136
-- Arthur Ornelas — 12724128058
-- Alisson Conceição — 12724216237
 - Luiggi Souza Grassi — 12724143600
 - Raimundo Neto — 12724119913
 
