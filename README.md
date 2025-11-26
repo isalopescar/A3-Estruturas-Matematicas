@@ -3,7 +3,7 @@
 **Unidade Curricular:** Estruturas Matemáticas  
 **Tema:** Inversão de Matrizes
 
-**Integrantes / RA:**
+**(Importante) Integrantes / RA / CONTRIBUIÇÕES:**
 - Isadora Lopes Carneiro — 12724112679 / fez o script, corrigiu partes de Luiggi e Raimundo, montou slide
 - João Luiz — 12724114136 / apresentou slide no dia
 - Arthur Ornelas — 12724128058 / não participou
