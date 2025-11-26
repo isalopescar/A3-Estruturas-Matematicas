@@ -4,7 +4,7 @@
 **Tema:** Inversão de Matrizes
 
 **(Importante) Integrantes / RA / CONTRIBUIÇÕES:**
-- Isadora Lopes Carneiro — 12724112679 / fez o script, corrigiu partes de Luiggi e Raimundo, montou slide
+- Isadora Lopes Carneiro — 12724112679 / fez o programa original, corrigiu partes de Luiggi e Raimundo, montou slide
 - João Luiz — 12724114136 / apresentou slide no dia
 - Arthur Ornelas — 12724128058 / não participou
 - Alisson Conceição — 12724216237 / apresentou slide no dia
